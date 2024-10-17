@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenesov Nurkhan</h1>
 <h3 align="center">A passionate fullstack developer from Kazakhstan</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/ac/b2/67acb2ebd2a1a6503f8e646fc2604c85.gif"
-
+<(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/ac/b2/67acb2ebd2a1a6503f8e646fc2604c85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurkhankenesov&label=Profile%20views&color=0e75b6&style=flat" alt="nurkhankenesov" /> </p>
 
