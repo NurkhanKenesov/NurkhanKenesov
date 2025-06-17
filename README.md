@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenesov Nurkhan</h1>
 <h3 align="center">Data Science Enthusiast from Kazakhstan</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/67/ac/b2/67acb2ebd2a1a6503f8e646fc2604c85.gif">
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*bc9pmXIW7Z4lJXq7D4fzfg.gif">
 
